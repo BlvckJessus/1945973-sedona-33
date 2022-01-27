@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vladislav Denisov](https://up.htmlacademy.ru/htmlcss/33/user/1945973).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Вашкевич](https://htmlacademy.ru/profile/id116959).
 
 ---
 
